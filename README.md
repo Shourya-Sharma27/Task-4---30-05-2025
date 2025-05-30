@@ -10,7 +10,6 @@ I tried connecting to port 23 using the `telnet` command, and as expected, the c
 Next, I allowed SSH traffic on port 22 because it's essential for remote access and I didn’t want to accidentally lock myself out. 
 Once I was done testing the Telnet block, I deleted the rule for port 23 to bring things back to their original state. 
 Throughout this process, I took note of the commands I used and captured screenshots of the firewall status, rules, and connection test results, 
-which I’ve added in the `screenshots/` folder.
 
 Doing this helped me see how a firewall actually works — not just in theory, but in practice. 
 I now understand how controlling specific ports can reduce security risks and how UFW simplifies this process. 
