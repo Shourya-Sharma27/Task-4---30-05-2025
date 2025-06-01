@@ -1,4 +1,5 @@
 # Task-4---30-05-2025
+Firewall rules and bounderies 
 For this task, I explored basic firewall configuration using UFW (Uncomplicated Firewall) on Kali 
 Linux. The goal was to understand how firewalls filter network traffic and how those rules are managed through simple commands.
 
